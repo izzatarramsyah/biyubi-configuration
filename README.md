@@ -1,2 +1,2 @@
 # clinic-config-server
-config server for clinic project
+config server for biyubi backend
