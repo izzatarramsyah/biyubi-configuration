@@ -1,2 +1,2 @@
 # clinic-config-server
-config server for biyubi backend
+config server use by Spring Boot Backend for biyubi backend
