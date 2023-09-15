@@ -1,2 +1,5 @@
-# clinic-config-server
-config server use by Spring Boot Backend for biyubi backend
+# Description
+Backend Properties for Biyubi Clinic App
+
+# Project 
+Biyubi Clinic Growth Monitoring for 0-2 years child accroding Z Score WHO
